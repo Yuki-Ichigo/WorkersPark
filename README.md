@@ -24,11 +24,11 @@ Worker's Park
 
 ## 設計書
 （現時点で作成済みのもの）
-UI Flows＜https://app.diagrams.net/#G1oaZNhHifMpjHZdUm0yawggkazeVKndia　＞
-ワイヤーフレーム＜https://app.diagrams.net/#G1TuxiBUjmb6vdJB0l37csHegAChqRg93j　＞
+UI Flows＜https://drive.google.com/file/d/1oaZNhHifMpjHZdUm0yawggkazeVKndia/view?usp=sharing　＞
+ワイヤーフレーム＜https://drive.google.com/file/d/1TuxiBUjmb6vdJB0l37csHegAChqRg93j/view?usp=sharing　＞
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1PYf_LAiVa73THVFcMkmX7BMKqmCz7jPyILMwxuKHCYQ/edit#gid=568276869>
+<https://docs.google.com/spreadsheets/d/1PYf_LAiVa73THVFcMkmX7BMKqmCz7jPyILMwxuKHCYQ/edit?usp=sharing>
 
 ## 開発環境
 - OS：Linux(CentOS)
